@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl?" type="text/xsl"?>
+
+<!-- Squad properties follow - change values as necessary -->
+<!-- Keep nick short - it is displayed together with players nick -->
+<squad nick="TZW">
+	<!-- Main squad name, also page title when XML is viewed in web browser -->
+	<name>Time Zone Warriors</name>
+	<!-- Squadmaster email address -->
+	<email></email>
+	<!-- Main web site of the squad -->
+	<web>www.timezone-warriors.net</web>
+	<!-- Squad picture URL (will be documented later) -->
+	<picture>xenu.paa</picture>
+	<!-- Squad name - displayed on vehicles manned by squad members -->
+	<title>Xenu [TZW]</title>
+<!-- End of squad properties  -->
+
+<!-- Member list follows - change values as necessary -->
+<!-- user ID and nick nick must be the same as given in OFP Edit Player dialog -->
+	<member id="184134" nick="Xenu">
+	<!-- additonal information about this member, accessible by pressing 'P' -->
+	<!-- all this information is optional and may be set to N/A -->
+		<!-- Full name -->
+		<name>Xenu</name>
+		<!-- E-mail address -->
+		<email></email>
+		<!-- ICQ number -->
+		<icq></icq>
+		<!-- short description -->
+		<remark>In human stupidity, when it is not malicious, there
+is something very touching, even beautiful... There always is. /Tolstoy</remark>
+	<!-- end of additional member information -->
+	</member>
+	<member id="3100870" nick="Xenu">
+	<!-- additonal information about this member, accessible by pressing 'P' -->
+	<!-- all this information is optional and may be set to N/A -->
+		<!-- Full name -->
+		<name>Xenu</name>
+		<!-- E-mail address -->
+		<email></email>
+		<!-- ICQ number -->
+		<icq></icq>
+		<!-- short description -->
+		<remark>In human stupidity, when it is not malicious, there
+is something very touching, even beautiful... There always is. /Tolstoy</remark>
+	<!-- end of additional member information -->
+	</member>
+	<member id="76561197999275366" nick="Xenu">
+	<!-- additonal information about this member, accessible by pressing 'P' -->
+	<!-- all this information is optional and may be set to N/A -->
+		<!-- Full name -->
+		<name>Xenu</name>
+		<!-- E-mail address -->
+		<email></email>
+		<!-- ICQ number -->
+		<icq></icq>
+		<!-- short description -->
+		<remark>In human stupidity, when it is not malicious, there
+is something very touching, even beautiful... There always is. /Tolstoy</remark>
+	<!-- end of additional member information -->
+	</member>
+<!-- End of member list -->
+
+</squad>
